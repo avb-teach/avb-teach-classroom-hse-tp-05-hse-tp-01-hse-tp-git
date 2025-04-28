@@ -12,6 +12,12 @@
 
 Пример:
 
+
+
+
+
+
+
 `./collect_files.sh /home/input_dir /home/output_dir`
 
 `/home/output_dir` изначально пустая.
